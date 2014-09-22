@@ -1,0 +1,38 @@
+##The website title
+name: Extended Compositions
+##Markdown processor
+markdown: redcarpet
+##syntax highlighter
+#highlighter: rouge
+highlighter: github-linguist
+
+##define base_url for valid usage in sitemap.xml and robots.txt
+#base_url: http://gituser.github.io (or http://example.com)
+base_url: http://seanpk.github.io
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: While composing it, everything takes longer than expected, even when you take into account Hofstadter's law.
+##Some frequently used keywords on your website
+keywords: software, open source, agile, open technology, standards
+
+##define this for disqus comment support
+#disqus: disqusdomain
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  facebook: 
+  twitter: seanpk8
+  email: 
+  github: seanpk
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: piano-hand.png
+

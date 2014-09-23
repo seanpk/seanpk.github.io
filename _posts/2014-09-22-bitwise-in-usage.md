@@ -5,7 +5,7 @@ date:   2014-09-22 21:39
 categories: 
 ---
 
-The following are instructions from the [Bitwise.in](http://bitwiser.in/bitwiser/) theme that I've used to create this site. In addition to looking pretty good, following the instructions embedded in the theme (like the info below) has made the whole process quite simple! Thanks [Brijesh](https://github.com/brijeshb42), you've done a great job and helped me out.
+The following are instructions from the [Bitwiser.in](http://bitwiser.in/bitwiser/) theme that I've used to create this site. In addition to looking pretty good, following the instructions embedded in the theme (like the info below) has made the whole process quite simple! Thanks [Brijesh](https://github.com/brijeshb42), you've done a great job and helped me out.
 
 ---
 

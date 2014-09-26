@@ -36,3 +36,5 @@ links:
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: piano-hand.png
 
+permalink: pretty
+

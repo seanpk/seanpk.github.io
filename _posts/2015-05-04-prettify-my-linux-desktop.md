@@ -13,8 +13,8 @@ Since this happens semi-frequently, I thought I'd capture the two I just created
 
 ## [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-{% 4c97547f7634a2ae1d24 %}
+{% gist 4c97547f7634a2ae1d24 %}
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
 
-{% c3a022293755ca037022 %}
+{% gist c3a022293755ca037022 %}

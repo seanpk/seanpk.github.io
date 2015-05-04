@@ -4,7 +4,8 @@ name: Extended Compositions
 markdown: redcarpet
 ##syntax highlighter
 #highlighter: rouge
-highlighter: github-linguist
+#highlighter: github-linguist
+highlight: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 #base_url: http://gituser.github.io (or http://example.com)

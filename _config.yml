@@ -1,11 +1,11 @@
 ##The website title
 name: Extended Compositions
 ##Markdown processor
-markdown: redcarpet
+markdown: kramdown
 ##syntax highlighter
-#highlighter: rouge
+highlighter: rouge
 #highlighter: github-linguist
-highlight: pygments
+#highlight: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 #base_url: http://gituser.github.io (or http://example.com)

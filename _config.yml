@@ -4,8 +4,6 @@ name: Extended Compositions
 markdown: kramdown
 ##syntax highlighter
 highlighter: rouge
-#highlighter: github-linguist
-#highlight: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 #base_url: http://gituser.github.io (or http://example.com)
@@ -29,9 +27,9 @@ keywords: software, open source, agile, open technology, standards
 
 ##Some commonly used links
 links:
-  facebook: 
+  facebook:
   twitter: seanpk8
-  email: 
+  email:
   github: seanpk
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
@@ -39,3 +37,16 @@ about_image: piano-hand.png
 
 permalink: pretty
 
+plugins:
+  - jekyll-gist
+
+exclude:
+  - Bitwiser.in-theme*
+  # have to restate the defaults too:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
